@@ -1,0 +1,8 @@
+.hero{
+    background: url('/image/code-5.jpg') center/cover no-repeat;
+    height: 80vh;
+    border-radius: 12px;
+    margin: 20px;
+}
+
+
